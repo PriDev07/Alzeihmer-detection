@@ -1,0 +1,58 @@
+# Results directory for training outputs
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model checkpoints
+*.pkl
+*.pth
+*.h5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Demo results
+demo_results/
+ADNI/
