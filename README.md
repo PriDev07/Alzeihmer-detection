@@ -247,16 +247,21 @@ ADNI/
 
 ## License
 
-This project is for research and educational purposes. Please refer to ADNI data usage agreements for the neuroimaging data.
+Code in this repository (`vqc_model.py`, `train.py`, `data_loader.py`, `evaluation.py`, `example.py`, and other source files) is licensed under the **MIT License** — see [LICENSE](LICENSE) for the full text. You're free to use, modify, and redistribute the code with attribution.
+
+**Note on data:** This project uses data from the [ADNI (Alzheimer's Disease Neuroimaging Initiative)](http://adni.loni.usc.edu/) database. ADNI neuroimaging data and clinical metadata (including files under `arc table/`) are **not covered by the MIT license** and remain subject to ADNI's own Data Use Agreement. Access to and redistribution of ADNI data requires separate approval directly from ADNI — this repository does not grant any rights to that data.
 
 ## Citation
 
+[#citation](#citation)
+
 If you use this code, please cite:
-```
+
+\`\`\`
 ADNI Variational Quantum Classifier for Alzheimer's Detection
-[Your Name/Institution]
+Priyanshu Lohani
 2026
-```
+\`\`\`
 
 ## Contact
 
