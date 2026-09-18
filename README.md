@@ -253,8 +253,6 @@ Code in this repository (`vqc_model.py`, `train.py`, `data_loader.py`, `evaluati
 
 ## Citation
 
-[#citation](#citation)
-
 If you use this code, please cite:
 
 \`\`\`
